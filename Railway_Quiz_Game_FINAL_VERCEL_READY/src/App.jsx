@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import questions from "./data/questions.json";
+import questions from "./data/railway_quiz_all_1000_questions.json";
 import "./App.css";
 
 function App() {
